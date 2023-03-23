@@ -10,5 +10,4 @@ Paralelogramo
 Rectangulo
 Cuadrado
 Circunferencia.
- :)
 ```
